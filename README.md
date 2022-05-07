@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Juan Vargas
 - 📫 Email: juan@jvargas.dev
+- 💻 Website: [jvargas.dev](https://www.jvargas.dev/)
 
 <!---
 jcvargas1/jcvargas1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
